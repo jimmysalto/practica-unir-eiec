@@ -5,3 +5,6 @@ run:
 
 run-local:
 	python3 main.py words.txt yes
+
+run-local-2:
+	python3 main.py palabras.txt no
